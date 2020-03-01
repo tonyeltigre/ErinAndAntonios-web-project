@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  
+<style> 
+.animals {
+  background-color: #800000;
+  color: white;
+  margin: 40px;
+  padding: 40px;
+}
+.animals2 {
+  background-color: #FFDF00;
+  color: white;
+  margin: 40px;
+  padding: 40px;
+}
+
+<\style>
+
+<body>
+<h1 align="center" font-color: #800000>Animals in Danger</h1>
+<div class="animals">
+  <h2>Sea Turtle</h2>
+  <p>For more than 100 million years sea turtles have covered vast distances across 
+  the world's oceans, filling a vital role in the balance of marine habitats.</p>
+ </div>
+ 
+<div class="animals2">
+ <h2>Polar Bear</h2>
+ <p>Polar bears are classified as marine mammals because they spend
+ most of their lives on the sea ice of the Arctic Ocean.</p>
+</div>
